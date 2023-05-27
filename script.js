@@ -1,1 +1,1 @@
-console.log("this is the background-generator");
+console.log("this is the background-generator", "cool background-generator");
